@@ -1,1 +1,6 @@
 yugiohcards
+cards.cdb
+strings.conf
+*.pyc
+build
+dist

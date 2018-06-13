@@ -4,9 +4,9 @@ Easily download and organize all Yugioh cards
 
 ## Usage
 
-If building from source isn't your thing, there's a binary version (only windows right now) downloadable from [here](url)
+If building from source isn't your thing, there's a binary version (only windows right now) downloadable from the releases page.
 
-Otherwise, simply download the latest version of python and you'll be good to go.
+Otherwise, simply get the latest version of python (tested on 3) and you'll be good to go.
 
 From here, run the script and cards should start downloading.
 
